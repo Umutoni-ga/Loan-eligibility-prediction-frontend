@@ -1,0 +1,19 @@
+.main {
+    margin-top: 2rem;
+    margin-left: 12rem;
+    width: 90%;
+    max-width: 50rem;
+    /* height: 100vh; */
+   
+  }
+
+  .container{
+    background-image:
+    linear-gradient(to right bottom, rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8) )
+     ,url("https://cdn.pixabay.com/photo/2018/06/18/18/10/website-3483020_960_720.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+  }

@@ -1,0 +1,50 @@
+.main {
+    margin-top: 2rem;
+    max-width: 50rem;
+    text-align: center;
+    margin-left: 150px;
+  }
+
+h3{
+    text-align: center;
+}
+.FormContainer{
+  padding:10px;
+  display: flex;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  background-color: rgba(255, 166, 0, 0.658);
+}
+.actions input {
+  margin-left: 50px;
+    font: inherit;
+    cursor: pointer;
+    background-color: rgb(141, 170, 157);
+    color: rgb(41, 49, 45);
+    padding: 0.25rem 1rem;
+    border: 1px solid rgb(141, 170, 157);
+    border-radius: 4px;
+    font-weight: bold;
+    margin-top: 2rem;
+  }
+
+  .actions input:hover,
+  .actions input:active {
+    background-color: rgb(158, 190, 176);
+    border-color: rgb(158, 190, 176);
+  }
+
+.UploadingTitle{
+  margin-bottom: 20px;
+ text-align: center;
+ font-weight: 500;
+ color:#FFFFFF;
+ font-size: 20px;
+ text-transform: uppercase;
+ line-height: 1.7;
+}
+.SubmitBtn{
+  background-color:#ffffff;
+  border-radius: 100px;
+  border-style: none;
+}
